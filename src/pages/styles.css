@@ -1,0 +1,9 @@
+.imgstyle{
+    max-width: 500px;
+    max-height: 10rem;
+    align-items: center;
+}
+
+.logo{
+    text-decoration: none;
+}
